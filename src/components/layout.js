@@ -1,8 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 
-import "../theme/global.scss";
-
 const Layout = ({ children }) => {
     return (
         <div>

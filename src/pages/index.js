@@ -6,7 +6,7 @@ import * as styles from "./index.module.scss";
 const IndexPage = () => {
     return (
         <Layout>
-            <h1 className="title">Hello World</h1>
+            <h1>Hello World</h1>
             <p className={styles.bluish}>
                 Sit ea sit excepturi laudantium iste? Adipisci alias labore
                 consequuntur?

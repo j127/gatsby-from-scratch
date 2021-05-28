@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 const AboutPage = () => {
     return (
         <Layout>
-            <h1 class="title">About Page</h1>
+            <h1>About Page</h1>
             <p>
                 Consectetur laudantium asperiores unde non ut, magni Assumenda
                 nihil quam molestiae repudiandae obcaecati incidunt, ratione
